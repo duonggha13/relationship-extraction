@@ -1,0 +1,3 @@
+microsoft windows hyper-v cve-2017-0099 remote denial of service vulnerability discoveredmar
+has_product(microsoft,windows)
+has_vulnerability(windows,remote_denial_of_service_vulnerability)

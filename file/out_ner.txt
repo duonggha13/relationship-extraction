@@ -1,0 +1,4 @@
+microsoft windows hyper-v cve-2017-0099 remote denial of service vulnerability discoveredmar
+ORG: microsoft
+PRO: windows
+VUL: remote denial of service vulnerability
